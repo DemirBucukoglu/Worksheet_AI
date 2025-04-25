@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-04-24 01:34",
+  "question_types": [
+    "reading_tf"
+  ],
+  "extra_instructions": "",
+  "details": {
+    "reading_tf": {
+      "words": "eggplant tomate patato ",
+      "topics": "farming",
+      "count": "7"
+    }
+  },
+  "worksheet_output": "English Handout  \nGrade Level: Elementary  \n_/100  \n\nSection 1: Reading Comprehension  \nReading Passage:  \nFarming is one of the oldest jobs in the world. Farmers grow many types of fruits and vegetables, which are important for our health. Some common vegetables grown on farms are eggplants, tomatoes, and potatoes. Farmers work hard to plant seeds, water the crops, and make sure they grow. They also use machines to harvest the vegetables when they are ready. After harvesting, the vegetables are sent to stores where people can buy them and cook delicious meals.  \n\nQuestions:  \n1. Farmers grow eggplants, tomatoes, and potatoes. (True/False/Don't Say)  \n2. Farming is a new job that started recently. (True/False/Don't Say)  \n3. Farmers use machines to help with harvesting. (True/False/Don't Say)  \n4. Tomatoes grow on trees. (True/False/Don't Say)  \n5. Vegetables are sent to stores after they are harvested. (True/False/Don't Say)  \n6. Eating vegetables is important for good health. (True/False/Don't Say)  \n7. Farmers only grow fruits, not vegetables. (True/False/Don't Say)  \n\nFun Fact: Did you know that tomatoes were once called \"love apples\"? People used to think they were magical and brought good luck!"
+}

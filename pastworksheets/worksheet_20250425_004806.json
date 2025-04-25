@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-04-25 00:48",
+  "question_types": [
+    "reading_tf"
+  ],
+  "extra_instructions": "",
+  "details": {
+    "reading_tf": {
+      "words": "eggplant tomate patato ",
+      "topics": "farming",
+      "count": "4"
+    }
+  },
+  "worksheet_output": "English Handout  \nGrade Level: Elementary School  \n_/100  \n\nSection 1: Reading Comprehension  \nReading Passage:  \nFarming is an important activity that provides us with many of the foods we eat every day. Farmers grow vegetables like eggplants, tomatoes, and potatoes in fields. These vegetables need sunlight, water, and care to grow properly. Eggplants are purple and grow on tall plants with green leaves. Tomatoes are red, juicy, and can be eaten raw or cooked. Potatoes, on the other hand, grow underground and are dug up when they are ready to eat. Farmers work hard to ensure these crops are fresh and healthy for us to enjoy.  \n\nQuestions:  \n  1. Farmers grow vegetables like eggplants, tomatoes, and potatoes. (True/False/Don't Say)  \n  2. Tomatoes grow underground. (True/False/Don't Say)  \n  3. Potatoes need sunlight to grow. (True/False/Don't Say)  \n  4. Eggplants are yellow and grow on short plants. (True/False/Don't Say)  \n\nFun Fact: Did you know that tomatoes were once called \"love apples\"? People used to think they were magical!"
+}

@@ -1,0 +1,52 @@
+{
+  "timestamp": "2025-04-24 01:57",
+  "question_types": [
+    "reading_tf",
+    "reading_oe",
+    "essay",
+    "multiple_choice",
+    "matching",
+    "fill_blanks",
+    "vocab_practice",
+    "rewrite_exercise"
+  ],
+  "extra_instructions": "",
+  "details": {
+    "reading_tf": {
+      "words": "dawn melody journey sheep",
+      "topics": "",
+      "count": "4"
+    },
+    "reading_oe": {
+      "words": "asteroid crater colony expedition",
+      "topics": "one question should include going to mars"
+    },
+    "essay": {
+      "words": "was/were",
+      "topics": "past tense"
+    },
+    "multiple_choice": {
+      "words": "will harvest, harvest, harvested, is harvesting",
+      "topics": "make one of the questions have 2 blanks",
+      "count": "3"
+    },
+    "matching": {
+      "words": "run ran eat ate see saw",
+      "topics": ""
+    },
+    "fill_blanks": {
+      "words": "launched discovered will launch will discover",
+      "topics": "make the sentences about a rocketship",
+      "count": "4"
+    },
+    "vocab_practice": {
+      "words": "polymer resistor capacitor loop ",
+      "topics": "use the words in a sentence"
+    },
+    "rewrite_exercise": {
+      "words": "present tense",
+      "topics": "future tense"
+    }
+  },
+  "worksheet_output": "English Handout  \nGrading: _/100  \n\nSection 1: Reading Comprehension (True/False/Don't Say)  \nGrading: _/10  \n\nReading Passage:  \nAt dawn, Emily walked through the valley to hear the melody of birds singing. On her journey, she passed by a group of sheep grazing peacefully. Emily loved these early mornings when nature seemed to whisper its secrets.  \n\nQuestions:  \n1. Emily walked through the valley at sunset.  \n2. Emily heard birds singing during her walk.  \n3. Emily saw cows grazing in the valley.  \n4. Emily enjoys early mornings in nature.  \n\nSection 2: Reading Comprehension Open-Ended  \nGrading: _/15  \n\nReading Passage:  \nScientists are planning a new expedition to Mars, where they hope to establish a colony in the future. The mission will involve studying asteroid craters to better understand the planet's history. The team will spend months preparing before launching their spacecraft to begin the journey.  \n\nQuestions:  \n1. What is the goal of the expedition to Mars?  \n2. How can studying asteroid craters help scientists?  \n3. What challenges might the team face during their mission?  \n4. Would you like to go to Mars? Why or why not?  \n\nSection 3: Essay Prompt  \nGrading: _/15  \n\nEssay Prompt:  \nWrite about a day in the past when you were very happy. Use the past tense to describe what happened and how you felt. Include details about where you were, what you did, and who you were with.  \n\nSection 4: Multiple Choice  \nGrading: _/15  \n\nQuestions:  \n1. The farmers ______ the crops last year.  \n   a. will harvest  \n   b. harvest  \n   c. harvested  \n   d. is harvesting  \n\n2. The astronaut ______ to the moon next month.  \n   a. will harvest  \n   b. is harvesting  \n   c. will launch  \n   d. launched  \n\n3. The researchers ______ a new planet and ______ a new star.  \n   a. discovered, harvested  \n   b. will discover, will harvest  \n   c. discovered, will discover  \n   d. launched, harvested  \n\nSection 5: Matching Exercise  \nGrading: _/10  \n\nMatch the verbs to their appropriate forms:  \n1. run  \n2. eat  \n3. see  \n4. ran  \n5. ate  \n6. saw  \n\nDefinitions or synonyms:  \na. To move quickly on foot.  \nb. To consume food.  \nc. To perceive with your eyes.  \nd. The past tense of \"run.\"  \ne. The past tense of \"eat.\"  \nf. The past tense of \"see.\"  \n\nSection 6: Fill in the Blanks  \nGrading: _/10  \n\nComplete the sentences about rocket ships:  \n1. The spacecraft ______ into orbit last year.  \n2. Scientists ______ a new planet yesterday.  \n3. Next month, the team ______ a new satellite into space.  \n4. They ______ an alien species in the future.  \n\nSection 7: Vocabulary Practice  \nGrading: _/10  \n\nInstructions:  \nUse each of the following words in a sentence:  \n1. polymer  \n2. resistor  \n3. capacitor  \n4. loop  \n\nSection 8: Rewrite Exercise  \nGrading: _/15  \n\nInstructions:  \nRewrite the following sentences in future tense:  \n1. The students present their findings at the science fair.  \n2. She writes a detailed report about her experiment.  \n3. The team tests their rocket engines for safety.  \n\nFun Fact: Did you know that the word \"asteroid\" comes from the Greek word \"aster,\" meaning star? Scientists study asteroids to learn more about the history of our solar system!"
+}

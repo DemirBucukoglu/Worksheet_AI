@@ -1,0 +1,52 @@
+{
+  "timestamp": "2025-04-18 07:57",
+  "question_types": [
+    "reading_tf",
+    "essay",
+    "multiple_choice",
+    "matching",
+    "fill_blanks",
+    "vocab_practice",
+    "P_w_multchoice",
+    "rewrite_exercise"
+  ],
+  "extra_instructions": "",
+  "details": {
+    "reading_tf": {
+      "words": "eggplant tomate patato ",
+      "topics": "farming",
+      "count": "2"
+    },
+    "essay": {
+      "words": "",
+      "topics": "write a story about your day in past tense"
+    },
+    "multiple_choice": {
+      "words": "was were",
+      "topics": "past tense",
+      "count": "1"
+    },
+    "matching": {
+      "words": "fantasy abandon defeat evidence ",
+      "topics": ""
+    },
+    "fill_blanks": {
+      "words": "",
+      "topics": "make the blanks fillable with simple present",
+      "count": ""
+    },
+    "vocab_practice": {
+      "words": "fuel proud vast storm",
+      "topics": ""
+    },
+    "P_w_multchoice": {
+      "words": "was were ",
+      "topics": "make the paragraph test past tense"
+    },
+    "rewrite_exercise": {
+      "words": "Past tense",
+      "topics": "Future tense"
+    }
+  },
+  "worksheet_output": "English Worksheet  \nGrade Level: Elementary/Middle School  \n\nSection 1: Reading Comprehension  \nReading Passage:  \nFarmers grow many types of vegetables to feed people all over the world. Some of the common vegetables they grow are eggplants, tomatoes, and potatoes. Potatoes are often grown underground, while tomatoes and eggplants grow above the soil. Farmers work hard to make sure their crops get enough water and sunlight to grow healthy and strong.  \n\nQuestions:  \n1. Potatoes grow underground. (True/False/Don’t Say)  \n2. Farmers use special machines to water their crops. (True/False/Don’t Say)  \n\n---\n\nSection 2: Essay Writing Practice  \nEssay Prompt: Write a story about your day in the past tense.  \nInstructions:  \n1. Think about what you did yesterday or on any other day in the past.  \n2. Write a story using past tense verbs. For example, use words like \"walked,\" \"played,\" or \"ate.\"  \n3. Include details about what happened, who you were with, and how you felt.  \n\n---\n\nSection 3: Multiple Choice  \nQuestion: Choose the correct word to complete the sentence.  \nShe ______ happy when she saw her birthday gift.  \na) was  \nb) were  \nc) is  \nd) are  \n\n---\n\nSection 4: Matching Exercise  \nInstructions: Match the words on the left with their correct definitions on the right.  \n\n1. Fantasy - a. To leave something behind or give it up  \n2. Abandon - b. Proof or facts that show something is true  \n3. Defeat - c. A type of story with magical or imagined events  \n4. Evidence - d. To win over someone or something  \n\nAnswer Key: 1 = c, 2 = a, 3 = d, 4 = b  \n\n---\n\nSection 5: Fill in the Blanks  \nInstructions: Fill in the blanks with the correct form of the verb in the simple present tense.  \n1. She ______ (walk) to school every morning.  \n2. The dog ______ (bark) loudly when it sees strangers.  \n3. We ______ (eat) lunch together at noon.  \n4. He ______ (read) a book before bedtime.  \n\n---\n\nSection 6: Vocabulary Practice  \nInstructions: Use each of the following words in a sentence.  \n1. Fuel  \n2. Proud  \n3. Vast  \n4. Storm  \n\n---\n\nSection 7: Paragraph with Multiple Choice  \nParagraph:  \nYesterday, it ______ (was/were) a sunny day. My friends and I ______ (was/were) excited to go to the park. We ______ (was/were) there for hours, playing and enjoying the beautiful weather.  \n\nQuestions:  \n1. Choose the correct verb to fill in the first blank.  \na) was  \nb) were  \nc) is  \nd) are  \n\n2. Choose the correct verb to fill in the second blank.  \na) was  \nb) were  \nc) is  \nd) are  \n\n3. Choose the correct verb to fill in the third blank.  \na) was  \nb) were  \nc) is  \nd) are  \n\n---\n\nSection 8: Rewrite Exercise  \nInstructions: Rewrite the following sentences in the future tense.  \n\n1. I went to the park yesterday.  \n2. She played with her friends after school.  \n3. They ate pizza for dinner last night.  \n\n---\n\nFun Fact: Did you know that potatoes were the first vegetable grown in space? Astronauts grew them on the Space Shuttle Columbia in 1995!"
+}

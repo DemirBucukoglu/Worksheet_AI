@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-04-16 20:39",
+  "question_types": [
+    "reading_tf",
+    "P_w_multchoice",
+    "rewrite_exercise"
+  ],
+  "extra_instructions": "make the whole worksheet be about veterians",
+  "details": {
+    "reading_tf": {
+      "words": "eggplant tomate patato ",
+      "topics": "farming",
+      "count": "1"
+    },
+    "P_w_multchoice": {
+      "words": "was were ",
+      "topics": "make the paragraph test past tense"
+    },
+    "rewrite_exercise": {
+      "words": "Past tense",
+      "topics": "Future tense"
+    }
+  },
+  "worksheet_output": "English Worksheet  \nGrade Level: Elementary/Middle School  \n\nTopic: Veterinarians  \n\nSection 1: Reading Comprehension (True/False/Don't Say)  \nReading Passage:  \nVeterinarians are animal doctors. They help sick or injured animals feel better. Some veterinarians work on farms and take care of animals like cows, horses, and chickens. Others work in clinics and care for pets such as dogs, cats, and rabbits. Veterinarians also give advice to farmers about how to keep their animals healthy by feeding them the right food and giving them clean water.  \n\nQuestion:  \n1. Veterinarians only take care of pets like dogs and cats. (True/False/Don’t Say)  \n\nSection 2: Paragraph with Multiple Choice (Past Tense Practice)  \nParagraph:  \nLast week, the veterinarian ____ (1) very busy. There ____ (2) many animals waiting for care. A dog ____ (3) sick with a fever, and a horse ____ (4) a hurt leg. The veterinarian ____ (5) from morning until night to help them all.  \n\nQuestions:  \n1. Fill in the blank (1):  \n   a. was  \n   b. were  \n   c. is  \n\n2. Fill in the blank (2):  \n   a. was  \n   b. were  \n   c. are  \n\n3. Fill in the blank (3):  \n   a. were  \n   b. was  \n   c. is  \n\n4. Fill in the blank (4):  \n   a. was  \n   b. were  \n   c. is  \n\n5. Fill in the blank (5):  \n   a. worked  \n   b. working  \n   c. works  \n\nSection 3: Rewrite Exercise (Past Tense to Future Tense)  \nInstructions: Rewrite the following sentences in the future tense.  \n\n1. The veterinarian helped a sick cat.  \n2. She gave medicine to a cow.  \n3. The doctor worked late into the evening.  \n\nFun Fact: Did you know that veterinarians can work with all kinds of animals, even exotic ones like lions, elephants, and penguins? Some veterinarians travel to faraway places to help wildlife in need!"
+}

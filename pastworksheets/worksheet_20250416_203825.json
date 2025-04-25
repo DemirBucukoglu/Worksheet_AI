@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-04-16 20:38",
+  "question_types": [
+    "P_w_multchoice",
+    "rewrite_exercise"
+  ],
+  "extra_instructions": "make the whole worksheet be about world war 2",
+  "details": {
+    "P_w_multchoice": {
+      "words": "was were ",
+      "topics": "make the paragraph test past tense"
+    },
+    "rewrite_exercise": {
+      "words": "Past tense",
+      "topics": "Future tense"
+    }
+  },
+  "worksheet_output": "English Worksheet  \nGrade Level: Middle School  \n\nTopic: World War II  \n\nSection 1: Paragraph with Multiple Choice  \nInstructions: Read the paragraph below and fill in the blanks with the correct word: \"was\" or \"were.\" After completing the paragraph, answer the multiple-choice questions based on the blanks.  \n\nParagraph:  \nWorld War II (1) _____ one of the most significant events in history. It (2) _____ fought between the Allies and the Axis Powers from 1939 to 1945. During the war, many countries (3) _____ involved in battles across Europe, Asia, and Africa. The war (4) _____ not only about military conflicts but also about the impact it (5) _____ on civilians around the world.  \n\nQuestions:  \n1. What is the correct word for blank (1)?  \n  a) was  \n  b) were  \n2. What is the correct word for blank (2)?  \n  a) was  \n  b) were  \n3. What is the correct word for blank (3)?  \n  a) was  \n  b) were  \n4. What is the correct word for blank (4)?  \n  a) was  \n  b) were  \n5. What is the correct word for blank (5)?  \n  a) was  \n  b) were  \n\nSection 2: Rewrite Exercise  \nInstructions: Rewrite the following sentences in the future tense.  \n\n1. During World War II, many soldiers fought bravely on the front lines.  \n2. The Allies defeated the Axis Powers in 1945.  \n3. Civilians experienced hardships due to food shortages and bombings.  \n4. Many countries joined forces to stop the spread of aggression.  \n5. World leaders discussed strategies to end the war.  \n\nFun Fact: Did you know that during World War II, messages were often sent using secret codes? Some of the most famous codebreakers were part of a group called the \"Code Girls,\" who helped the Allies by decoding enemy messages."
+}

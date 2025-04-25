@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>English Worksheet Generator</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <script>
+    function toggleInstructionBubble(checkbox, bubbleId) {
+      var bubble = document.getElementById(bubbleId);
+      bubble.style.display = checkbox.checked ? 'block' : 'none';
+    }
+  </script>
+</head>
+<body>
+  <div class="container">
+    <h1>Generate Your English Worksheet / Exam</h1>
+    <form method="POST" action="/">
+      <label>Select Your Types:</label><br>
+
+      <input type="checkbox" name="question_types" value="reading_tf"
+             onclick="toggleInstructionBubble(this,'reading_tf_instruction')">
+      Reading Comprehension (T/F)
+
+      <span class="info-icon">i
+        <div class="tooltip-img">
+          <img src="{{ url_for('static', filename='exampleq/readingTF.png') }}"
+               style="width:100%; display:block;" />
+        </div>
+      </span>
+
+      <div id="reading_tf_instruction" class="instruction-bubble">
+        <div class="instruction-row">
+          <label for="reading_tf_words">Words:</label>
+          <input type="text" name="reading_tf_words" placeholder="Enter words (if any)">
+        </div>
+        <div class="instruction-row">
+          <label for="reading_tf_topics">Specific Details:</label>
+          <input type="text" name="reading_tf_topics" placeholder="e.g. Make it past tense">
+        </div>
+        <div class="instruction-row">
+          <label for="reading_tf_count">Number of True/False Questions:</label>
+          <input type="number" name="reading_tf_count" min="1" placeholder="e.g. 5">
+        </div>
+      </div>
+      <br>
+      
+      <!-- Reading Comprehension (Open-Ended) -->
+
+      <input type="checkbox" name="question_types" value="reading_oe"
+             onclick="toggleInstructionBubble(this,'reading_oe_instruction')">
+      Reading Comprehension Open Ended
+
+      <span class="info-icon">i
+        <div class="tooltip-img">
+          <img
+            src="{{ url_for('static', filename='exampleq/Readingopen.png') }}"
+            style="width:100%; display:block;" />
+        </div>
+      </span>
+
+      <div id="reading_oe_instruction" class="instruction-bubble">
+        <div class="instruction-row">
+          <label for="reading_oe_words">Words:</label>
+          <input type="text" name="reading_oe_words" placeholder="Enter words (if any)">
+        </div>
+        <div class="instruction-row">
+          <label for="reading_oe_topics">Specific Details:</label>
+          <input type="text" name="reading_oe_topics" placeholder="e.g. Make it past tense">
+        </div>
+      </div>
+      <br>
+
+      <!-- Essay Prompts -->
+      <input type="checkbox" name="question_types" value="essay"
+             onclick="toggleInstructionBubble(this,'essay_instruction')">
+      Essay Prompt
+
+      <span class="info-icon">i
+        <div class="tooltip-img">
+          <img
+            src="{{ url_for('static', filename='exampleq/essaywriting.png') }}"
+            style="width:100%; display:block;" />
+        </div>
+      </span>
+
+      <div id="essay_instruction" class="instruction-bubble">
+        <div class="instruction-row">
+          <label for="essay_words">Words:</label>
+          <input type="text" name="essay_words" placeholder="Enter words (if any)">
+        </div>
+        <div class="instruction-row">
+          <label for="essay_topics">Specific Details:</label>
+          <input type="text" name="essay_topics" placeholder="e.g. Make it past tense">
+        </div>
+      </div>
+      <br>
+
+      <!-- Multiple-Choice Questions -->
+      <input type="checkbox" name="question_types" value="multiple_choice"
+             onclick="toggleInstructionBubble(this,'multiple_choice_instruction')">
+      Multiple Choice
+
+      <span class="info-icon">i
+        <div class="tooltip-img">
+          <img
+            src="{{ url_for('static', filename='exampleq/multi.png') }}"
+            style="width:100%; display:block;" />
+        </div>
+      </span>
+
+      <div id="multiple_choice_instruction" class="instruction-bubble">
+        <div class="instruction-row">
+          <label for="multiple_choice_words">Words:</label>
+          <input type="text" name="multiple_choice_words" placeholder="Enter words (if any)">
+        </div>
+        <div class="instruction-row">
+          <label for="multiple_choice_topics">Specific Details:</label>
+          <input type="text" name="multiple_choice_topics" placeholder="e.g. Make it past tense">
+        </div>
+        <div class="instruction-row">
+          <label for="multiple_choice_count">Number of Questions:</label>
+          <input type="number" name="multiple_choice_count" min="1" placeholder="e.g. 5">
+        </div>
+      </div>
+      <br>
+
+      <!-- Matching Exercises -->
+      <input type="checkbox" name="question_types" value="matching"
+             onclick="toggleInstructionBubble(this,'matching_instruction')">
+      Matching
+
+      <span class="info-icon">i
+        <div class="tooltip-img">
+          <img
+            src="{{ url_for('static', filename='exampleq/Matching.png') }}"
+            style="width:100%; display:block;" />
+        </div>
+      </span>
+
+      <div id="matching_instruction" class="instruction-bubble">
+        <div class="instruction-row">
+          <label for="matching_words">Words:</label>
+          <input type="text" name="matching_words" placeholder="Enter words (if any)">
+        </div>
+        <div class="instruction-row">
+          <label for="matching_topics">Specific Details:</label>
+          <input type="text" name="matching_topics" placeholder="e.g. Make it past tense">
+        </div>
+      </div>
+      <br>
+
+      <!-- Fill-in-the-Blanks -->
+      <input type="checkbox" name="question_types" value="fill_blanks"
+             onclick="toggleInstructionBubble(this,'fill_blanks_instruction')">
+      Fill in the Blanks
+
+      <span class="info-icon">i
+        <div class="tooltip-img">
+          <img
+            src="{{ url_for('static', filename='exampleq/Fillblanks.png') }}"
+            style="width:100%; display:block;" />
+        </div>
+      </span>
+
+      <div id="fill_blanks_instruction" class="instruction-bubble">
+        <div class="instruction-row">
+          <label for="fill_blanks_words">Words:</label>
+          <input type="text" name="fill_blanks_words" placeholder="Enter words (if any)">
+        </div>
+        <div class="instruction-row">
+          <label for="fill_blanks_topics">Specific Details:</label>
+          <input type="text" name="fill_blanks_topics" placeholder="e.g. Make it past tense">
+        </div>
+        <div class="instruction-row">
+          <label for="fill_blanks_count">Number of Fill in the Blank Sentences:</label>
+          <input type="number" name="fill_blanks_count" min="1" placeholder="e.g. 5">
+        </div>
+      </div>
+      <br>
+
+      <!-- Vocabulary Practice -->
+      <input type="checkbox" name="question_types" value="vocab_practice"
+             onclick="toggleInstructionBubble(this,'vocab_practice_instruction')">
+      Vocabulary Practice
+
+      <span class="info-icon">i
+        <div class="tooltip-img">
+          <img
+            src="{{ url_for('static', filename='exampleq/Vocab.png') }}"
+            style="width:100%; display:block;" />
+        </div>
+      </span>
+
+      <div id="vocab_practice_instruction" class="instruction-bubble">
+        <div class="instruction-row">
+          <label for="vocab_practice_words">Words:</label>
+          <input type="text" name="vocab_practice_words" placeholder="Enter words (if any)">
+        </div>
+        <div class="instruction-row">
+          <label for="vocab_practice_topics">Specific Details:</label>
+          <input type="text" name="vocab_practice_topics" placeholder="e.g. Make it past tense">
+        </div>
+      </div>
+      <br>
+
+      <!-- Paragraph Multiple (parawmulti) -->
+      <input type="checkbox" name="question_types" value="P_w_multchoice"
+             onclick="toggleInstructionBubble(this,'P_w_multchoice_instruction')">
+      Paragraph With Multiple Choice
+
+      <span class="info-icon">i
+        <div class="tooltip-img">
+          <img
+            src="{{ url_for('static', filename='exampleq/parawmulti.png') }}"
+            style="width:100%; display:block;" />
+        </div>
+      </span>
+
+      <div id="P_w_multchoice_instruction" class="instruction-bubble">
+        <div class="instruction-row">
+          <label for="P_w_multchoice_words">Words:</label>
+          <input type="text" name="P_w_multchoice_words" placeholder="Enter words (if any)">
+        </div>
+        <div class="instruction-row">
+          <label for="P_w_multchoice_topics">Specific Details:</label>
+          <input type="text" name="P_w_multchoice_topics" placeholder="e.g. Make it past tense">
+        </div>
+      </div>
+      <br>
+
+<!-- Rewrite Sentences -->
+      <input type="checkbox" name="question_types" value="rewrite_exercise"
+             onclick="toggleInstructionBubble(this,'rewrite_exercise_instruction')">
+      Rewrite Exercise
+      
+      <span class="info-icon">i
+        <div class="tooltip-img">
+          <img
+            src="{{ url_for('static', filename='exampleq/rewrite.png') }}"
+            style="width:100%; display:block;" />
+        </div>
+      </span>
+
+      <div id="rewrite_exercise_instruction" class="instruction-bubble">
+        <div class="instruction-row">
+          <label for="rewrite_exercise_words">From which tense:</label>
+          <input type="text" name="rewrite_exercise_words" placeholder="Enter source tense">
+        </div>
+        <div class="instruction-row">
+          <label for="rewrite_exercise_topics">To which tense:</label>
+          <input type="text" name="rewrite_exercise_topics" placeholder="Enter target tense">
+        </div>
+      </div>
+      <br>
+
+      <label for="extra_instructions">Any Extra Instructions?</label><br>
+      <textarea name="extra_instructions" rows="2" placeholder="e.g. 'Make it for 5th graders'"></textarea>
+      <br><br>
+
+      <button type="submit">Generate</button>
+    </form>
+  </div>
+</body>
+</html>

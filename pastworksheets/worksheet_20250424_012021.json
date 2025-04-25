@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-04-24 01:20",
+  "question_types": [
+    "matching",
+    "fill_blanks"
+  ],
+  "extra_instructions": "",
+  "details": {
+    "matching": {
+      "words": "fantasy abandon defeat evidence ",
+      "topics": ""
+    },
+    "fill_blanks": {
+      "words": "was were ",
+      "topics": "make the blanks fillable with simple present",
+      "count": "2"
+    }
+  },
+  "worksheet_output": "English Worksheet  \nGrade Level: Elementary  \n\nGrading: _/100\n\nSection 1: Matching Exercise  \nGrading: _/40  \n\nInstructions: Match each word on the left with its correct definition or synonym on the right. Write the corresponding letter in the blank.  \n\nWords:  \n1. Fantasy  \n2. Abandon  \n3. Defeat  \n4. Evidence  \n\nDefinitions/Synonyms:  \nA. To leave something behind or give up on it  \nB. Proof or facts that support an idea  \nC. The act of losing or being beaten  \nD. A creative story or idea that is not real  \n\nAnswer Key Example: 1 - D  \n\n---\n\nSection 2: Fill in the Blanks (Simple Present Tense)  \nGrading: _/20  \n\nInstructions: Complete the sentences with the correct word from the choices provided (was/were).  \n\n1. There ______ a beautiful rainbow in the sky after the rain.  \n2. The children ______ excited to see the magic show yesterday.  \n\n---\n\nSection 3: Fun Fact  \nDid you know? The word \"fantasy\" comes from the Greek word \"phantasia,\" which means imagination or appearance. Fantasy stories let us explore magical worlds and exciting adventures!"
+}

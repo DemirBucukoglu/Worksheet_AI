@@ -1,0 +1,57 @@
+{
+  "timestamp": "2025-04-18 08:24",
+  "question_types": [
+    "reading_tf",
+    "reading_oe",
+    "essay",
+    "multiple_choice",
+    "matching",
+    "fill_blanks",
+    "vocab_practice",
+    "P_w_multchoice",
+    "rewrite_exercise"
+  ],
+  "extra_instructions": "",
+  "details": {
+    "reading_tf": {
+      "words": "eggplant tomate patato ",
+      "topics": "farming",
+      "count": "2"
+    },
+    "reading_oe": {
+      "words": "eggplant tomate patato ",
+      "topics": "make it a farmer"
+    },
+    "essay": {
+      "words": "",
+      "topics": "write a story about your day in past tense"
+    },
+    "multiple_choice": {
+      "words": "was were",
+      "topics": "past tense",
+      "count": "1"
+    },
+    "matching": {
+      "words": "fantasy abandon defeat evidence ",
+      "topics": ""
+    },
+    "fill_blanks": {
+      "words": "",
+      "topics": "make the blanks fillable with simple present",
+      "count": ""
+    },
+    "vocab_practice": {
+      "words": "fuel proud vast storm",
+      "topics": ""
+    },
+    "P_w_multchoice": {
+      "words": "was were ",
+      "topics": "make the paragraph test past tense"
+    },
+    "rewrite_exercise": {
+      "words": "Past tense",
+      "topics": "Future tense"
+    }
+  },
+  "worksheet_output": "English Worksheet  \nGrade Level: Elementary/Middle School  \n\nSection 1: Reading Comprehension (True/False/Don't Say)  \nTopic: Farming  \n\nReading Passage:  \nFarmers grow many different vegetables in their fields. Some of the most common ones are eggplants, tomatoes, and potatoes. Farmers take great care of their crops by watering them and keeping weeds away. These vegetables are then sold at markets or sent to stores for people to buy.  \n\nQuestions:  \n1. Farmers grow eggplants, tomatoes, and potatoes. (True/False/Don't Say)  \n2. Farmers sell their vegetables only in markets. (True/False/Don't Say)  \n\nFun Fact: Did you know that tomatoes were once thought to be poisonous? Now, they are one of the most popular vegetables worldwide!  \n\n---\n\nSection 2: Reading Comprehension (Open-Ended)  \nTopic: Farming  \n\nReading Passage:  \nA farmer wakes up early in the morning to start their work. First, they check the fields to see if the vegetables, like eggplants, tomatoes, and potatoes, are growing well. They also make sure the plants have enough water and are protected from insects. At the end of the day, they feel proud of their hard work.  \n\nQuestions:  \n1. What are some vegetables the farmer grows?  \n2. What does the farmer do in the morning?  \n\nFun Fact: Potatoes are the fourth most important food crop in the world after rice, wheat, and corn!  \n\n---\n\nSection 3: Essay Writing Practice  \nEssay Prompt: Write a story about your day in past tense.  \n\nInstructions:  \n1. Think about what you did yesterday.  \n2. Write about your activities in the past tense, starting from when you woke up.  \n3. Include details about how you felt and what you enjoyed the most.  \n\nFun Fact: Writing about your day can help you remember small but happy moments!  \n\n---\n\nSection 4: Multiple Choice Practice  \nTopic: Past Tense  \n\nQuestion: Which sentence is correct in the past tense?  \n1. She was happy to see her friend.  \n2. They were going to the park yesterday.  \n3. He was play soccer after school.  \n4. We were eats lunch together.  \n\nAnswer: 1. She was happy to see her friend.  \n\nFun Fact: Did you know that verbs like \"was\" and \"were\" are used to talk about the past?  \n\n---\n\nSection 5: Matching Exercise  \nVocabulary: Fantasy, Abandon, Defeat, Evidence  \n\nMatch the word to its definition:  \n1. Fantasy - A. To leave something behind permanently.  \n2. Abandon - B. Proof or clues that show something is true.  \n3. Defeat - C. To lose a fight or competition.  \n4. Evidence - D. A story or dream that is imaginary and not real.  \n\nAnswers:  \n1 - D  \n2 - A  \n3 - C  \n4 - B  \n\nFun Fact: A good story often includes a mix of fantasy and reality to make it exciting!  \n\n---\n\nSection 6: Fill in the Blanks  \nTopic: Simple Present  \n\nSentences:  \n1. The farmer ______ (water) the plants every morning.  \n2. She ______ (check) the vegetables for insects.  \n3. They ______ (sell) the crops at the market every weekend.  \n\nFun Fact: Present tense is great for talking about habits or things that happen regularly!  \n\n---\n\nSection 7: Vocabulary Practice  \nWords: Fuel, Proud, Vast, Storm  \n\nInstructions: Write a sentence with each word provided.  \n1. Fuel  \n2. Proud  \n3. Vast  \n4. Storm  \n\nFun Fact: A vast desert can sometimes hold hidden treasures, like ancient fossils!  \n\n---\n\nSection 8: Paragraph with Multiple Choice  \nTopic: Past Tense  \nWords: Was, Were  \n\nParagraph:  \nYesterday, it ______ (1) a rainy day. The streets ______ (2) wet, and everyone stayed home. My sister and I ______ (3) excited because we played board games all afternoon. It ______ (4) a fun and relaxing day.  \n\nQuestions:  \n1. What is the correct word for blank (1)?  \n  a. Was  \n  b. Were  \n2. What is the correct word for blank (2)?  \n  a. Was  \n  b. Were  \n3. What is the correct word for blank (3)?  \n  a. Was  \n  b. Were  \n4. What is the correct word for blank (4)?  \n  a. Was  \n  b. Were  \n\nAnswers:  \n1 - a  \n2 - b  \n3 - b  \n4 - a  \n\nFun Fact: Rainy days are perfect for indoor fun like reading or playing games!  \n\n---\n\nSection 9: Rewrite Exercise  \nTopic: Future Tense  \n\nOriginal Sentence: Yesterday, I went to the park and played soccer with my friends.  \n\nInstructions: Rewrite the sentence in the future tense.  \n\nFun Fact: Changing tenses in a sentence can help you imagine different time periods and events!  \n\n---  \n\nEnd of Worksheet"
+}

@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-04-24 01:32",
+  "question_types": [
+    "essay",
+    "matching"
+  ],
+  "extra_instructions": "",
+  "details": {
+    "essay": {
+      "words": "eggplant tomato patato ",
+      "topics": ""
+    },
+    "matching": {
+      "words": "fantasy abandon defeat evidence ",
+      "topics": ""
+    }
+  },
+  "worksheet_output": "English Worksheet  \nGrade Level: Middle School  \n\nGrading: _/100  \n\nSection 1: Essay Writing Practice (30 Points)  \nEssay Prompt: Write a creative story that includes the following three words: eggplant, tomato, and potato.  \nInstructions:  \n  1. Begin by brainstorming ideas for your story.  \n  2. Make sure to include all three words in your story naturally.  \n  3. Write at least three paragraphs, including a beginning, middle, and end.  \n  4. Use descriptive language and try to make your story interesting and engaging.  \n\nSection 2: Matching Vocabulary (20 Points)  \nMatch each word to its correct definition or synonym. Write the correct letter next to each number.  \n\nWords:  \n  1. Fantasy  \n  2. Abandon  \n  3. Defeat  \n  4. Evidence  \n\nDefinitions/Synonyms:  \n  A. To leave something behind or give up on it  \n  B. A creative or imaginary story, often not based on reality  \n  C. Proof or facts that support a claim or belief  \n  D. To overcome or win against someone or something  \n\nFun Fact: Did you know that the word \"fantasy\" comes from an ancient Greek word meaning \"imagination\"? It reminds us how creative our minds can be!"
+}
