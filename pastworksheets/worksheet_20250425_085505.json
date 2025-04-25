@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-04-25 08:55",
+  "question_types": [
+    "reading_tf"
+  ],
+  "extra_instructions": "",
+  "details": {
+    "reading_tf": {
+      "words": "",
+      "topics": "",
+      "count": ""
+    }
+  },
+  "worksheet_output": "English Handout  \nGrade: Elementary/Middle School  \n_/100  \n\nSection 1: Reading Comprehension  \n\nReading Passage:  \nThere was a small town surrounded by lush green hills and a sparkling river. Every morning, children would gather near the river to watch the fish swim. One day, a boy named Liam noticed something strange. The water seemed less clear, and the fish were fewer in number. Liam decided to speak with the villagers about it. Together, they discovered that trash was being thrown into the river. The villagers worked as a team to clean the river and promised to take care of it. Soon, the fish returned, and the river sparkled once more.  \n\nQuestions:  \n1. The town was surrounded by green hills and a river. (True/False/Don’t Say)  \n2. Liam was the only child in the town. (True/False/Don’t Say)  \n3. The villagers cleaned the river together. (True/False/Don’t Say)  \n4. The fish never came back after the river was cleaned. (True/False/Don’t Say)  \n5. Liam spoke to the villagers about the river because he liked swimming. (True/False/Don’t Say)  \n\nFun Fact: Did you know that rivers are home to thousands of creatures, from tiny insects to large fish? Keeping rivers clean helps protect them!"
+}
